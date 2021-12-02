@@ -1,0 +1,107 @@
+[
+  {
+    "p1": "我想去办个信用卡",
+    "py": "Wǒ xiǎng qù bàn gè xìnyòngkǎ",
+    "p2": "I want to get a credit card",
+    "lvl": 4,
+    "key": "办"
+  },
+  {
+    "p1": "现在我很少看电视",
+    "py": "Xiànzài wǒ hěn shǎo kàn diànshì",
+    "p2": "I rarely watch TV now",
+    "lvl": 4,
+    "key": "很少"
+  },
+  {
+    "p1": "其中一个原因是",
+    "py": "Qízhōng yīgè yuányīn shì",
+    "p2": "Among the reasons is",
+    "lvl": 4,
+    "key": "原因"
+  },
+  {
+    "p1": "这是你做的饺子？",
+    "py": "Zhè shì nǐ zuò de jiǎozi?",
+    "p2": "This is the dumpling you made?",
+    "lvl": 4,
+    "key": "饺子"
+  },
+  {
+    "p1": "刚才电视里说明天更冷",
+    "py": "Gāngcái diànshì lǐ shuōmíng tiān gèng lěng",
+    "p2": "It was said on TV that it was colder",
+    "lvl": 4,
+    "key": "更冷"
+  },
+  {
+    "p1": "大家反映了不少管理过程中出现的问题",
+    "py": "Dàjiā fǎn yìng liǎo bù shào guǎnlǐ guòchéng zhòng chūxiàn de wèntí",
+    "p2": "Everyone has reflected a lot of problems in the management process",
+    "lvl": 4,
+    "key": "反映"
+  },
+  {
+    "p1": "不管什么时间，也不管什么节目",
+    "py": "Bùguǎn shénme shíjiān, yě bùguǎn shénme jiémù",
+    "p2": "No matter what time, no matter what program",
+    "lvl": 4,
+    "key": "不管"
+  },
+  {
+    "p1": "只要你打开电视",
+    "py": "Zhǐyào nǐ dǎkāi diànshì",
+    "p2": "As long as you turn on the TV",
+    "lvl": 4,
+    "key": "打开"
+  },
+  {
+    "p1": "浪费我的时间",
+    "py": "Làngfèi wǒ de shíjiān.",
+    "p2": "wasting my time",
+    "lvl": 4,
+    "key": "浪费"
+  },
+  {
+    "p1": "飞机还没起飞",
+    "py": "Fēijī hái méi qǐfēi",
+    "p2": "The plane hasn't taken off yet",
+    "lvl": 4,
+    "key": "起飞"
+  },
+  {
+    "p1": "不饿就不要吃早饭",
+    "py": "Bù è jiù bùyào chī zǎofàn",
+    "p2": "Don't eat breakfast if you are not hungry",
+    "lvl": 4,
+    "key": "饿"
+  },
+  {
+    "p1": "经理发现了小王的一些缺点",
+    "py": "Jīnglǐ fǎ xiàn le xiǎo wáng de yīxiē quēdiǎn",
+    "p2": "The manager found some shortcomings of Xiao Wang",
+    "lvl": 4,
+    "key": "发现"
+  },
+  {
+    "p1": "女朋友听过这个笑话",
+    "py": "Nǚ péngyǒu tīngguò zhège xiàohuà.",
+    "p2": "My girlfriend has heard this joke.",
+    "lvl": 4,
+    "key": "听过"
+  },
+  {
+    "p1": "他没有翻译第二部分",
+    "py": "Tā méiyǒu fānyì dì èr bùfèn.",
+    "p2": "He did not translate the second part.",
+    "lvl": 4,
+    "key": "翻译"
+  },
+  {
+    "p1": "王老师现在是教授了",
+    "py": "Wáng lǎoshī xiànzài shì jiàoshòule",
+    "p2": "Teacher Wang is now a professor",
+    "lvl": 4,
+    "key": "教授"
+  }
+]
