@@ -1,4 +1,5 @@
-[
+{
+  "context_phrases":[
   {
     "p1": "金先生 不着急",
     "p2": "Mr. Jin, take your time.",
@@ -3810,3 +3811,5 @@
     "pinyin": "yī  zhǒng  cóng  xīn  chū fā  de  xuǎn zé"
   }
 ]
+}  
+  
