@@ -1,5 +1,5 @@
 {
-  "hsk_phrases": [
+"hsk" :[
   {
     "p1": "我想去办个信用卡",
     "py": "Wǒ xiǎng qù bàn gè xìnyòngkǎ",
@@ -104,7 +104,104 @@
     "p2": "Teacher Wang is now a professor",
     "lvl": 4,
     "key": "教授"
+  },
+  {
+    "p1": "他想买个大房子",
+    "py": "Tā xiǎng mǎi gè dà fángzi",
+    "p2": "He wants to buy a big house",
+    "lvl": "",
+    "key": "房子"
+  },
+  {
+    "p1": "他在理发店",
+    "py": "Tā zài lǐfǎ diàn",
+    "p2": "He is in the barbershop.",
+    "lvl": "",
+    "key": "理发店"
+  },
+  {
+    "p1": "这个咖啡馆儿很热闹",
+    "py": "Zhège kāfēi guǎn er hěn rènào",
+    "p2": "This cafe is very lively",
+    "lvl": "",
+    "key": "热闹"
+  },
+  {
+    "p1": "把这个文件复印五份",
+    "py": "Bǎ zhège wénjiàn fùyìn wǔ fèn",
+    "p2": "Make five copies of this document",
+    "lvl": "",
+    "key": "文件"
+  },
+  {
+    "p1": "一会儿拿到会议室发给大家",
+    "py": "Yīhuǐ'er ná dào huìyì shì fā gěi dàjiā",
+    "p2": "I'll get it in the conference room and send it to everyone",
+    "lvl": "",
+    "key": "拿"
+  },
+  {
+    "p1": "虽然现在离春节还有段时",
+    "py": "Suīrán xiànzài lí chūnjié hái yǒu duàn shí",
+    "p2": "Although there is still some time before the Spring Festival",
+    "lvl": "",
+    "key": "虽然"
+  },
+  {
+    "p1": "研究证明，人们的心情会随着天气的变化而变化",
+    "py": "Yánjiū zhèngmíng, rénmen de xīnqíng huì suízhe tiānqì de biànhuà ér biànhuà",
+    "p2": "Studies have shown that people’s moods change with the weather",
+    "lvl": "",
+    "key": "证明"
+  },
+  {
+    "p1": "明天可能下雨 -你记得提醒儿子带雨伞",
+    "py": "Míngtiān kěnéng xià yǔ -nǐ jìdé tíxǐng érzi dài yǔsǎn",
+    "p2": "It might rain tomorrow-remember to remind your son to bring an umbrella",
+    "lvl": "",
+    "key": "提醒"
+  },
+  {
+    "p1": "快把房间收拾一下- 准备一些水果- 一会儿有客人要来",
+    "py": "Kuài bǎ fángjiān shōushí yīxià- zhǔnbèi yīxiē shuǐguǒ- yīhuǐ'er yǒu kèrén yào lái",
+    "p2": "Quickly clean up the room-prepare some fruits-there will be guests coming in a while",
+    "lvl": "",
+    "key": "收拾"
+  },
+  {
+    "p1": "这些瓶子的数量对吧？",
+    "py": "Zhèxiē píngzi de shùliàng duì ba?",
+    "p2": "The number of these bottles, right?",
+    "lvl": "",
+    "key": "数量"
+  },
+  {
+    "p1": "肯定没问题",
+    "py": "Kěndìng méi wèntí",
+    "p2": "Definitely no problem",
+    "lvl": "",
+    "key": "肯定"
+  },
+  {
+    "p1": "讨论会开得顺利吗？",
+    "py": "Tǎolùn huì kāi dé shùnlì ma?",
+    "p2": "Did the discussion go smoothly?",
+    "lvl": "",
+    "key": "顺利"
+  },
+  {
+    "p1": "今天千万不能迟到",
+    "py": "Jīntiān qiān wàn bùnéng chídào",
+    "p2": "Don't be late today",
+    "lvl": "",
+    "key": "千万"
+  },
+  {
+    "p1": "可以顺便活动活动",
+    "py": "Kěyǐ shùnbiàn huódòng huódòng",
+    "p2": "You can do activities by the way",
+    "lvl": "",
+    "key": "顺便"
   }
 ]
-}  
-  
+}
