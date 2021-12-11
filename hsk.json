@@ -1,0 +1,817 @@
+{
+  "hsk": [
+    {
+      "p1": "我想去办个信用卡",
+      "py": "Wǒ xiǎng qù bàn gè xìnyòngkǎ",
+      "p2": "I want to get a credit card",
+      "lvl": 4,
+      "key": "办"
+    },
+    {
+      "p1": "现在我很少看电视",
+      "py": "Xiànzài wǒ hěn shǎo kàn diànshì",
+      "p2": "I rarely watch TV now",
+      "lvl": 4,
+      "key": "很少"
+    },
+    {
+      "p1": "其中一个原因是",
+      "py": "Qízhōng yīgè yuányīn shì",
+      "p2": "Among the reasons is",
+      "lvl": 4,
+      "key": "原因"
+    },
+    {
+      "p1": "这是你做的饺子？",
+      "py": "Zhè shì nǐ zuò de jiǎozi?",
+      "p2": "This is the dumpling you made?",
+      "lvl": 4,
+      "key": "饺子"
+    },
+    {
+      "p1": "刚才电视里说明天更冷",
+      "py": "Gāngcái diànshì lǐ shuōmíng tiān gèng lěng",
+      "p2": "It was said on TV that it was colder",
+      "lvl": 4,
+      "key": "更冷"
+    },
+    {
+      "p1": "大家反映了不少管理过程中出现的问题",
+      "py": "Dàjiā fǎn yìng liǎo bù shào guǎnlǐ guòchéng zhòng chūxiàn de wèntí",
+      "p2": "Everyone has reflected a lot of problems in the management process",
+      "lvl": 4,
+      "key": "反映"
+    },
+    {
+      "p1": "不管什么时间 也不管什么节目",
+      "py": "Bùguǎn shénme shíjiān  yě bùguǎn shénme jiémù",
+      "p2": "No matter what time  no matter what program",
+      "lvl": 4,
+      "key": "不管"
+    },
+    {
+      "p1": "只要你打开电视",
+      "py": "Zhǐyào nǐ dǎkāi diànshì",
+      "p2": "As long as you turn on the TV",
+      "lvl": 4,
+      "key": "打开"
+    },
+    {
+      "p1": "浪费我的时间",
+      "py": "Làngfèi wǒ de shíjiān.",
+      "p2": "wasting my time",
+      "lvl": 4,
+      "key": "浪费"
+    },
+    {
+      "p1": "飞机还没起飞",
+      "py": "Fēijī hái méi qǐfēi",
+      "p2": "The plane hasn't taken off yet",
+      "lvl": 4,
+      "key": "起飞"
+    },
+    {
+      "p1": "不饿就不要吃早饭",
+      "py": "Bù è jiù bùyào chī zǎofàn",
+      "p2": "Don't eat breakfast if you are not hungry",
+      "lvl": 4,
+      "key": "饿"
+    },
+    {
+      "p1": "经理发现了小王的一些缺点",
+      "py": "Jīnglǐ fǎ xiàn le xiǎo wáng de yīxiē quēdiǎn",
+      "p2": "The manager found some shortcomings of Xiao Wang",
+      "lvl": 4,
+      "key": "发现"
+    },
+    {
+      "p1": "女朋友听过这个笑话",
+      "py": "Nǚ péngyǒu tīngguò zhège xiàohuà.",
+      "p2": "My girlfriend has heard this joke.",
+      "lvl": 4,
+      "key": "听过"
+    },
+    {
+      "p1": "他没有翻译第二部分",
+      "py": "Tā méiyǒu fānyì dì èr bùfèn.",
+      "p2": "He did not translate the second part.",
+      "lvl": 4,
+      "key": "翻译"
+    },
+    {
+      "p1": "王老师现在是教授了",
+      "py": "Wáng lǎoshī xiànzài shì jiàoshòule",
+      "p2": "Teacher Wang is now a professor",
+      "lvl": 4,
+      "key": "教授"
+    },
+    {
+      "p1": "他想买个大房子",
+      "py": "Tā xiǎng mǎi gè dà fángzi",
+      "p2": "He wants to buy a big house",
+      "lvl": 4,
+      "key": "房子"
+    },
+    {
+      "p1": "他在理发店",
+      "py": "Tā zài lǐfǎ diàn",
+      "p2": "He is in the barbershop.",
+      "lvl": 4,
+      "key": "理发店"
+    },
+    {
+      "p1": "这个咖啡馆儿很热闹",
+      "py": "Zhège kāfēi guǎn er hěn rènào",
+      "p2": "This cafe is very lively",
+      "lvl": 4,
+      "key": "热闹"
+    },
+    {
+      "p1": "把这个文件复印五份",
+      "py": "Bǎ zhège wénjiàn fùyìn wǔ fèn",
+      "p2": "Make five copies of this document",
+      "lvl": 4,
+      "key": "文件"
+    },
+    {
+      "p1": "一会儿拿到会议室发给大家",
+      "py": "Yīhuǐ'er ná dào huìyì shì fā gěi dàjiā",
+      "p2": "I'll get it in the conference room and send it to everyone",
+      "lvl": 4,
+      "key": "拿"
+    },
+    {
+      "p1": "虽然现在离春节还有段时",
+      "py": "Suīrán xiànzài lí chūnjié hái yǒu duàn shí",
+      "p2": "Although there is still some time before the Spring Festival",
+      "lvl": 4,
+      "key": "虽然"
+    },
+    {
+      "p1": "研究证明 人们的心情会随着天气的变化而变化",
+      "py": "Yánjiū zhèngmíng  rénmen de xīnqíng huì suízhe tiānqì de biànhuà ér biànhuà",
+      "p2": "Studies have shown that people’s moods change with the weather",
+      "lvl": 4,
+      "key": "证明"
+    },
+    {
+      "p1": "明天可能下雨 -你记得提醒儿子带雨伞",
+      "py": "Míngtiān kěnéng xià yǔ -nǐ jìdé tíxǐng érzi dài yǔsǎn",
+      "p2": "It might rain tomorrow-remember to remind your son to bring an umbrella",
+      "lvl": 4,
+      "key": "提醒"
+    },
+    {
+      "p1": "快把房间收拾一下- 准备一些水果- 一会儿有客人要来",
+      "py": "Kuài bǎ fángjiān shōushí yīxià- zhǔnbèi yīxiē shuǐguǒ- yīhuǐ'er yǒu kèrén yào lái",
+      "p2": "Quickly clean up the room-prepare some fruits-there will be guests coming in a while",
+      "lvl": 4,
+      "key": "收拾"
+    },
+    {
+      "p1": "这些瓶子的数量对吧？",
+      "py": "Zhèxiē píngzi de shùliàng duì ba?",
+      "p2": "The number of these bottles  right?",
+      "lvl": 4,
+      "key": "数量"
+    },
+    {
+      "p1": "肯定没问题",
+      "py": "Kěndìng méi wèntí",
+      "p2": "Definitely no problem",
+      "lvl": 4,
+      "key": "肯定"
+    },
+    {
+      "p1": "讨论会开得顺利吗？",
+      "py": "Tǎolùn huì kāi dé shùnlì ma?",
+      "p2": "Did the discussion go smoothly?",
+      "lvl": 4,
+      "key": "顺利"
+    },
+    {
+      "p1": "今天千万不能迟到",
+      "py": "Jīntiān qiān wàn bùnéng chídào",
+      "p2": "Don't be late today",
+      "lvl": 4,
+      "key": "千万"
+    },
+    {
+      "p1": "可以顺便活动活动",
+      "py": "Kěyǐ shùnbiàn huódòng huódòng",
+      "p2": "You can do activities by the way",
+      "lvl": 4,
+      "key": "顺便"
+    },
+    {
+      "p1": "太好了 我们现在就出发",
+      "py": "Tài hǎole  wǒmen xiànzài jiù chūfā",
+      "p2": "Great  let's set depart now",
+      "lvl": 4,
+      "key": "出发"
+    },
+    {
+      "p1": "可是今天起晚了",
+      "py": "Kěshì jīntiān qǐ wǎnle",
+      "p2": "But I got up late today",
+      "lvl": 4,
+      "key": "起晚"
+    },
+    {
+      "p1": "平时我骑自行车上下班",
+      "py": "Píngshí wǒ qí zìxíngchē shàng xiàbān",
+      "p2": "I usually go to get off work by bike",
+      "lvl": 4,
+      "key": "骑"
+    },
+    {
+      "p1": "所以就打车来公司",
+      "py": "Suǒyǐ jiù dǎchē lái gōngsī",
+      "p2": "So I took a taxi to the company",
+      "lvl": 4,
+      "key": "打车"
+    },
+    {
+      "p1": "她就给我留下了极深的印象",
+      "py": "Tā jiù gěi wǒ liú xiàle jí shēn de yìnxiàng",
+      "p2": "She left a deep impression on me",
+      "lvl": 4,
+      "key": "印象"
+    },
+    {
+      "p1": "那就是她特别热情、特别友好",
+      "py": "Nà jiùshì tā tèbié rèqíng  tèbié yǒuhǎo",
+      "p2": "That is she is very warm and friendly",
+      "lvl": 4,
+      "key": "特别"
+    },
+    {
+      "p1": "第一次和王小姐见面",
+      "py": "Dì yī cì hé wáng xiǎojiě jiànmiàn",
+      "p2": "Meet Miss Wang for the first time",
+      "lvl": 4,
+      "key": "见面"
+    },
+    {
+      "p1": "茶不仅仅是一种饮料",
+      "py": "Chá bùjǐn jǐn shì yī zhǒng yǐnliào",
+      "p2": "Tea is more than just a drink",
+      "lvl": 4,
+      "key": "不仅"
+    },
+    {
+      "p1": "它在中国有着几千年的历史",
+      "py": "Tā zài zhōngguó yǒuzhe jǐ qiān nián de lìshǐ",
+      "p2": "It has a history of thousands of years in China",
+      "lvl": 4,
+      "key": "历史"
+    },
+    {
+      "p1": "而且还是一种文化",
+      "py": "Érqiě háishì yī zhǒng wénhuà",
+      "p2": "...but also a form of culture",
+      "lvl": 4,
+      "key": "而且"
+    },
+    {
+      "p1": "昨天我和同事去逛街",
+      "py": "Zuótiān wǒ hé tóngshì qù guàngjiē",
+      "p2": "I went shopping with my colleague yesterday",
+      "lvl": 4,
+      "key": "逛街"
+    },
+    {
+      "p1": "可惜没有我穿的号了",
+      "py": "Kěxí méiyǒu wǒ chuān de hàole",
+      "p2": "unfortunately there is not the size I wear",
+      "lvl": 4,
+      "key": "可惜"
+    },
+    {
+      "p1": "我看上了一双挺漂亮的鞋 还打折",
+      "py": "Wǒ kàn shàngle yīshuāng tǐng piàoliang de xié  hái dǎzhé",
+      "p2": "I saw a pair of pretty shoes and they were discounted",
+      "lvl": 4,
+      "key": "打折"
+    },
+    {
+      "p1": "因为不同的颜色表示不同的性格",
+      "py": "Yīn wéi bùtóng de yánsè biǎoshì bùtóng dì xìnggé",
+      "p2": "Because different colors indicate different personalities",
+      "lvl": 4,
+      "key": "表示"
+    },
+    {
+      "p1": "就说明你是哪种性格的人",
+      "py": "Jiù shuōmíng nǐ shì nǎ zhǒng xìnggé de rén",
+      "p2": "It shows what kind of personality you are",
+      "lvl": 4,
+      "key": "性格"
+    },
+    {
+      "p1": "对当地的文化有一些简单的了解",
+      "py": "Duì dāngdì de wénhuà yǒu yīxiē jiǎndān de liǎojiě",
+      "p2": "to have some simple understanding of the local culture",
+      "lvl": 4,
+      "key": "简单"
+    },
+    {
+      "p1": "被大家普遍使用的是汉语普通话",
+      "py": "Bèi dàjiā pǔbiàn shǐyòng de shì hànyǔ pǔtōnghuà",
+      "p2": "Mandarin Chinese is commonly used by everyone",
+      "lvl": 4,
+      "key": "普遍"
+    },
+    {
+      "p1": "很多民族都有自己的语言",
+      "py": "Hěnduō mínzú dōu yǒu zìjǐ de yǔyán",
+      "p2": "Many ethnic groups have their own languages",
+      "lvl": 4,
+      "key": "语言"
+    },
+    {
+      "p1": "中国是一个多民族的国家",
+      "py": "Zhōngguó shì yīgè duō mínzú de guójiā",
+      "p2": "China is a multi-ethnic country",
+      "lvl": 4,
+      "key": "民族"
+    },
+    {
+      "p1": "还是从材料的质量上看",
+      "py": "Háishì cóng cáiliào de zhìliàng shàng kàn",
+      "p2": "Still from the quality of the material",
+      "lvl": 4,
+      "key": "材料"
+    },
+    {
+      "p1": "无论从价格方面看",
+      "py": "Wúlùn cóng jiàgé fāngmiàn kàn",
+      "p2": "Regardless of the price",
+      "lvl": 4,
+      "key": "无论"
+    },
+    {
+      "p1": "这种盒子都是值得考虑的",
+      "py": "Zhè zhǒng hézi dōu shì zhídé kǎolǜ de",
+      "p2": "This kind of box is worth considering",
+      "lvl": 4,
+      "key": "值得"
+    },
+    {
+      "p1": "它们的身体能发出美丽的亮光",
+      "py": "Tāmen de shēntǐ néng fāchū měilì de liàngguāng",
+      "p2": "Their bodies can emit beautiful light",
+      "lvl": 4,
+      "key": "发出"
+    },
+    {
+      "p1": "是父母的鼓励给了她信心",
+      "py": "Shì fùmǔ de gǔlì gěile tā xìnxīn",
+      "p2": "It was the encouragement of her parents that gave her confidence",
+      "lvl": 4,
+      "key": "鼓励"
+    },
+    {
+      "p1": "其实她小时候很普通",
+      "py": "Qíshí tā xiǎoshíhòu hěn pǔtōng",
+      "p2": "Actually she was very ordinary when she was young",
+      "lvl": 4,
+      "key": "其实"
+    },
+    {
+      "p1": "让她后来终于成为一位优秀的演员",
+      "py": "Ràng tā hòulái zhōngyú chéngwéi yī wèi yōuxiù de yǎnyuán",
+      "p2": "Let her finally become an excellent actor",
+      "lvl": 4,
+      "key": "终于"
+    },
+    {
+      "p1": "尽管已经毕业那么多年",
+      "py": "Jǐnguǎn yǐjīng bìyè nàme duōnián",
+      "p2": "Even though I have graduated for so many years",
+      "lvl": 4,
+      "key": "尽管"
+    },
+    {
+      "p1": "她很活泼 说话很有趣 总能给我们带来快乐",
+      "py": "Tā hěn huópō  shuōhuà hěn yǒuqù  zǒng néng gěi wǒmen dài lái kuàilè",
+      "p2": "She is very lively  talks very funny  and always brings us happiness",
+      "lvl": 4,
+      "key": "带来"
+    },
+    {
+      "p1": "小时候弟弟比我矮 现在却超过我了",
+      "py": "Xiǎoshíhòu dìdì bǐ wǒ ǎi  xiànzài què chāoguò wǒle",
+      "p2": "When I was young  my brother was shorter than me  but now he surpasses me",
+      "lvl": 4,
+      "key": "超"
+    },
+    {
+      "p1": "我真是羡慕极了",
+      "py": "Wǒ zhēnshi xiànmù jíle",
+      "p2": "I'm so envious",
+      "lvl": 4,
+      "key": "羡慕"
+    },
+    {
+      "p1": "我是前天到北京的 想借这次机会去长城看看",
+      "py": "Wǒ shì qiántiān dào běijīng de  xiǎng jiè zhè cì jīhuì qù chángchéng kàn kàn",
+      "p2": "I came to Beijing the day before yesterday and I want to take this opportunity to visit the Great Wall",
+      "lvl": 4,
+      "key": "借"
+    },
+    {
+      "p1": "可是公司的事情很多 时间安排得很紧张",
+      "py": "Kěshì gōngsī de shìqíng hěnduō  shíjiān ānpái dé hěn jǐnzhāng",
+      "p2": "But the company has a lot of things  and the schedule is very tight",
+      "lvl": 4,
+      "key": "安排"
+    },
+    {
+      "p1": "地球是我们共同的家",
+      "py": "Dìqiú shì wǒmen gòngtóng de jiā",
+      "p2": "The earth is our common home",
+      "lvl": 4,
+      "key": "共同"
+    },
+    {
+      "p1": "保护环境就是保护我们自己",
+      "py": "Bǎohù huánjìng jiùshì bǎohù wǒmen zìjǐ",
+      "p2": "To protect the environment is to protect ourselves",
+      "lvl": 4,
+      "key": "保护"
+    },
+    {
+      "p1": "为减少污染 我们应该养成节约的习惯",
+      "py": "Wèi jiǎnshǎo wūrǎn  wǒmen yīnggāi yǎng chéng jiéyuē de xíguàn",
+      "p2": "In order to reduce pollution  we should develop the habit of saving",
+      "lvl": 4,
+      "key": "减少"
+    },
+    {
+      "p1": "节约用水、节约用纸等等。",
+      "py": "jiéyuē yòngshuǐ  jiéyuē yòng zhǐ děng děng",
+      "p2": "saving water  saving paper and so on.",
+      "lvl": 4,
+      "key": "节约"
+    },
+    {
+      "p1": "一些电影院拒绝观众带任何食品",
+      "py": "Yīxiē diànyǐngyuàn jùjué guānzhòng dài rènhé shípǐn",
+      "p2": "Some movie theaters refuse the audience to bring any food",
+      "lvl": 4,
+      "key": "拒绝"
+    },
+    {
+      "p1": "人们不得不买电影院卖的东西",
+      "py": "Rénmen bùdé bú mǎi diànyǐngyuàn mài de dōngxī",
+      "p2": "People have to buy things sold in the cinema",
+      "lvl": 4,
+      "key": "不得不"
+    },
+    {
+      "p1": "很多观众批评这个做法",
+      "py": "Hěnduō guānzhòng pīpíng zhège zuòfǎ",
+      "p2": "Many viewers criticized this approach",
+      "lvl": 4,
+      "key": "批评"
+    },
+    {
+      "p1": "大约比超市贵三倍",
+      "py": "Dàyuē bǐ chāoshì guì sān bèi",
+      "p2": "About three times more expensive than supermarkets",
+      "lvl": 4,
+      "key": "大约"
+    },
+    {
+      "p1": "观众对什么不满意？",
+      "py": "Guānzhòng duì shénme bù mǎnyì?",
+      "p2": "What is the audience dissatisfied with?",
+      "lvl": 4,
+      "key": "满意"
+    },
+    {
+      "p1": "人与人的联系越来越方便",
+      "py": "Rén yǔ rén de liánxì yuè lái yuè fāngbiàn",
+      "p2": "The connection between people is getting more convenient",
+      "lvl": 4,
+      "key": "方便"
+    },
+    {
+      "p1": "人们更喜欢怎么交流？",
+      "py": "Rénmen gèng xǐhuān zěnme jiāoliú?",
+      "p2": "How do people prefer to communicate?",
+      "lvl": 4,
+      "key": "交流"
+    },
+    {
+      "p1": "兴趣是最好的老师",
+      "py": "Xìngqù shì zuì hǎo de lǎoshī",
+      "p2": "interest is the best teacher",
+      "lvl": 4,
+      "key": "兴趣"
+    },
+    {
+      "p1": "如果孩子对一件事情感兴趣",
+      "py": "Rúguǒ háizi duì yī jiàn shì qínggǎn xìngqù",
+      "p2": "If the child is interested in one thing",
+      "lvl": 4,
+      "key": "事情"
+    },
+    {
+      "p1": "那他一定会主动、努力 地去学习",
+      "py": "Nà tā yīdìng huì zhǔdòng  nǔlì de qù xuéxí",
+      "p2": "Then he will take the initiative and work hard to learn",
+      "lvl": 4,
+      "key": "主动"
+    },
+    {
+      "p1": "效果也会更好",
+      "py": "Xiàoguǒ yě huì gèng hǎo",
+      "p2": "The effect will be better",
+      "lvl": 4,
+      "key": "效果"
+    },
+    {
+      "p1": "为了提高学习效果 应该让孩子产生兴趣",
+      "py": "Wèile tígāo xuéxí xiàoguǒ  yīnggāi ràng hái zǐ chǎnshēng xìngqù",
+      "p2": "In order to improve the learning effect  children should generate interest",
+      "lvl": 4,
+      "key": "产生"
+    },
+    {
+      "p1": "有的时候 我们要学会拒绝别人",
+      "py": "Yǒu de shíhòu  wǒmen yào xuéhuì jùjué biérén",
+      "p2": "Sometimes  we have to learn to reject others",
+      "lvl": 4,
+      "key": "拒绝"
+    },
+    {
+      "p1": "如果表达不合适 就会引起误会",
+      "py": "Rúguǒ biǎodá bù héshì  jiù huì yǐnqǐ wùhuì",
+      "p2": "If the expression is inappropriate  it will cause misunderstanding",
+      "lvl": 4,
+      "key": "合适"
+    },
+    {
+      "p1": "拒绝别人 要找到合适、礼貌的方法",
+      "py": "Jùjué biérén  yào zhǎodào héshì  lǐmào de fāngfǎ",
+      "p2": "To reject others  find a suitable and polite way",
+      "lvl": 4,
+      "key": "礼貌"
+    },
+    {
+      "p1": "日记是写给自己看",
+      "py": "Rìjì shì xiě jǐ zìjǐ kàn",
+      "p2": "The diary is for myself",
+      "lvl": 4,
+      "key": "日记"
+    },
+    {
+      "p1": "然而现在更多的年轻人喜欢把自己的日记放 到网站",
+      "py": "Rán'ér xiànzài gèng duō de niánqīng rén xǐhuān bǎ zìjǐ de rìjì fàng dào wǎngzhàn",
+      "p2": "But now more young people like to put their diaries on the internet",
+      "lvl": 4,
+      "key": "然而"
+    },
+    {
+      "p1": "怎样才能说一口流利的外语呢?",
+      "py": "Zěnyàng cáinéng shuō yīkǒu liúlì de wàiyǔ ní?",
+      "p2": "How can I speak a fluent foreign language?",
+      "lvl": 4,
+      "key": "才能"
+    },
+    {
+      "p1": "如果你有一定的语言基础和经济条件",
+      "py": "Rúguǒ nǐ yǒu yīdìng de yǔyán jīchǔ hé jīngjì tiáojiàn",
+      "p2": "If you have a certain language foundation and financial conditions",
+      "lvl": 4,
+      "key": "基础"
+    },
+    {
+      "p1": "那么出国是最好的选择",
+      "py": "Nàme chūguó shì zuì hǎo de xuǎnzé",
+      "p2": "Then going abroad is the best choice",
+      "lvl": 4,
+      "key": "选择"
+    },
+    {
+      "p1": "因为语言环境对学习语言有重要的作用",
+      "py": "Yīnwèi yǔyán huánjìng duì xuéxí yǔyán yǒu zhòngyào de zuòyòng",
+      "p2": "Because the language environment plays an important role in language learning",
+      "lvl": 4,
+      "key": "作用"
+    },
+    {
+      "p1": "祝爸爸生日快乐！",
+      "py": "Zhù bàba shēngrì kuàilè!",
+      "p2": "Happy birthday to dad!",
+      "lvl": 4,
+      "key": "祝"
+    },
+    {
+      "p1": "妻子和儿子就一起祝我生日快乐",
+      "py": "Qīzi hé érzi jiù yīqǐ zhù wǒ shēngrì kuàilè",
+      "p2": "Wife and son wish me a happy birthday together",
+      "lvl": 4,
+      "key": "妻子"
+    },
+    {
+      "p1": "并送给我生日礼物",
+      "py": "Bìng sòng gěi wǒ shēngrì lǐwù",
+      "p2": "And they give me a birthday present",
+      "lvl": 4,
+      "key": "礼物"
+    },
+    {
+      "p1": "首先 我学的就是这个专业",
+      "py": "Shǒuxiān  wǒ xué de jiùshì zhège zhuānyè",
+      "p2": "First of all  I studied this major",
+      "lvl": 4,
+      "key": "首先"
+    },
+    {
+      "p1": "其次 同事们都很喜欢我",
+      "py": "Qícì  tóngshìmen dōu hěn xǐhuān wǒ",
+      "p2": "Secondly  my colleagues like me very much",
+      "lvl": 4,
+      "key": "其次"
+    },
+    {
+      "p1": "另外 工资也还算可以",
+      "py": "Lìngwài  gōngzī yě hái suàn kěyǐ",
+      "p2": "In addition  the salary is not bad",
+      "lvl": 4,
+      "key": "另外"
+    },
+    {
+      "p1": "还有奖金 收入不错",
+      "py": "hái yǒu jiǎngjīn  shōurù bùcuò",
+      "p2": "There are bonuses  good income",
+      "lvl": 4,
+      "key": "收入"
+    },
+    {
+      "p1": "交通工具是现代生活中不可缺少的一部分",
+      "py": "Jiāotōng gōngjù shì xiàndài shēnghuó zhōng bùkě quēshǎo de yībùfèn",
+      "p2": "Transportation is a part of modern life that cannot lack",
+      "lvl": 4,
+      "key": "现代"
+    },
+    {
+      "p1": "常见的交通工具包括汽车、飞机、船等",
+      "py": "Chángjiàn de jiāotōng gōngjù bāokuò qìchē  fēijī  chuán děng",
+      "p2": "Common means of transportation include cars  airplanes  boats  etc.",
+      "lvl": 4,
+      "key": "包括"
+    },
+    {
+      "p1": "这一切拉近了人与人之间的距离",
+      "py": "Zhè yīqiè lā jìnle rén yǔ rén zhī jiān de jùlí",
+      "p2": "All this has shortened the distance between people",
+      "lvl": 4,
+      "key": "之间"
+    },
+    {
+      "p1": "并且扩大了人们的活动范围",
+      "py": "Bìngqiě kuòdàle rénmen de huódòng fànwéi",
+      "p2": "And expand the scope of people's activities",
+      "lvl": 4,
+      "key": "并且"
+    },
+    {
+      "p1": "森林里 动物们决定举办一个晚会",
+      "py": "Sēnlín lǐ  dòngwùmen juédìng jǔbàn yīgè wǎnhuì",
+      "p2": "In the forest  the animals decided to hold a party",
+      "lvl": 4,
+      "key": "举办"
+    },
+    {
+      "p1": "这次演出吸引了几乎所有的动物",
+      "py": "Zhè cì yǎnchū xīyǐnle jīhū suǒyǒu de dòngwù",
+      "p2": "This performance attracted almost all animals",
+      "lvl": 4,
+      "key": "吸引"
+    },
+    {
+      "p1": "准备的节目各有特点",
+      "py": "Zhǔnbèi de jiémù gè yǒu tèdiǎn",
+      "p2": "Each prepared program has its own characteristics",
+      "lvl": 4,
+      "key": "特点"
+    },
+    {
+      "p1": "什么是真正的朋友？",
+      "py": "Shénme shì zhēnzhèng de péngyǒu?",
+      "p2": "What is a true friend?",
+      "lvl": 4,
+      "key": "真正"
+    },
+    {
+      "p1": "不同的人会有不同的理解",
+      "py": "Bùtóng de rén huì yǒu bùtóng de lǐjiě",
+      "p2": "Different people have different understandings",
+      "lvl": 4,
+      "key": "理解"
+    },
+    {
+      "p1": "在你遇到困难的时候",
+      "py": "Zài nǐ yù dào kùnnán de shíhòu",
+      "p2": "When you encounter difficulties",
+      "lvl": 4,
+      "key": "遇到"
+    },
+    {
+      "p1": "朋友会勇敢地站出来",
+      "py": "Péngyǒu huì yǒnggǎn de zhàn chū",
+      "p2": "Friends will stand up bravely",
+      "lvl": 4,
+      "key": "勇敢"
+    },
+    {
+      "p1": "及时给你帮助",
+      "py": "jíshí gěi nǐ bāngzhù",
+      "p2": "Help you in time",
+      "lvl": 4,
+      "key": "及时"
+    },
+    {
+      "p1": "在你孤单或者伤心流泪的时候",
+      "py": "Zài nǐ gūdān huòzhě shāngxīn liúlèi de shíhòu",
+      "p2": "When you are lonely or sad and crying",
+      "lvl": 4,
+      "key": "孤单"
+    },
+    {
+      "p1": "想办法让你感到幸福",
+      "py": "Xiǎng bànfǎ ràng nǐ gǎndào xìngfú",
+      "p2": "Find a way to make you happy",
+      "lvl": 4,
+      "key": "幸福"
+    },
+    {
+      "p1": "无论你是穷人还是富人",
+      "py": "Wúlùn nǐ shì qióngrén háishì fù rén",
+      "p2": "Whether you are poor or rich",
+      "lvl": 4,
+      "key": "穷"
+    },
+    {
+      "p1": "真正的朋友永远值得你信任",
+      "py": "Zhēnzhèng de péngyǒu yǒngyuǎn zhídé nǐ xìnrèn",
+      "p2": "A true friend is always worthy of your trust",
+      "lvl": 4,
+      "key": "信任"
+    },
+    {
+      "p1": "这段话主要介绍的是友谊",
+      "py": "Zhè duàn huà zhǔyào jièshào de shì yǒuyì",
+      "p2": "This passage mainly introduces friendship",
+      "lvl": 4,
+      "key": "介绍"
+    },
+    {
+      "p1": "当北半球到处春暖花开的时候",
+      "py": "Dāng běibànqiú dàochù chūnnuǎn huā kāi de shíhòu",
+      "p2": "When spring blossoms everywhere in the northern hemisphere",
+      "lvl": 4,
+      "key": "到处"
+    },
+    {
+      "p1": "南半球已经进入凉快的秋天",
+      "py": "Nánbànqiú yǐjīng jìnrù liángkuai de qiūtiān",
+      "p2": "The southern hemisphere has entered a cool autumn",
+      "lvl": "",
+      "key": "秋天"
+    },
+    {
+      "p1": "树叶也开始慢慢地变黄了",
+      "py": "Shùyè yě kāishǐ màn man de biàn huángle",
+      "p2": "The leaves are starting slowly to turn  yellow",
+      "lvl": "",
+      "key": "树叶"
+    },
+    {
+      "p1": "当北半球的气温逐渐降低的时候",
+      "py": "Dāng běibànqiú de qìwēn zhújiàn jiàngdī de shíhòu",
+      "p2": "When the temperature in the northern hemisphere gradually decreases",
+      "lvl": "",
+      "key": "气温"
+    },
+    {
+      "p1": "南半球的天气却开始热起来",
+      "py": "Nánbànqiú de tiānqì què kāishǐ rè qǐlái",
+      "p2": "The weather in the southern hemisphere is starting to heat up",
+      "lvl": "",
+      "key": "却"
+    },
+    {
+      "p1": "人们已经脱掉了厚厚的大衣",
+      "py": "Rénmen yǐjīng tuō diàole hòu hòu de dàyī",
+      "p2": "People have taken off their thick coats",
+      "lvl": "",
+      "key": "厚"
+    }
+  ]
+
+}
