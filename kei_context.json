@@ -1,4 +1,5 @@
-[
+{
+  "kai_phrases":[
   {
     "Time": "24s",
     "P1": "[Mann] Ambra ist Lust.",
@@ -12882,3 +12883,5 @@
     "ep": 5
   }
 ]
+  
+}
